@@ -1,0 +1,69 @@
+Project Overview
+
+MeloFi, a platform that lets users explore, play, and manage music across web and mobile. Users should be able to listen songs, discover tracks, build playlist, and search for music. The basic tech stack used to build this are React.js for front end, Flask and REST APIs for backend of Web. Meanwhile we will use Kotlin and Jetpack Compose(or XML UI if required) for the Android app.For desiginging UI and making wireframe of both Web and Android app we will use Figma.
+
+Goals
+
+* Provide a seamless experiene for both Web and mobile app.
+* Give a secure user authentication(Login/Signup).
+* Offer personalized recommendations and recently played songs.
+* Enable users to manage playlists.
+* Search functionality to search for specific tracks.
+* Provide a overall smooth experience for the user.
+
+Target Users
+
+* Users who want a smooth music experience for for both desktops and mobile phones.
+* Users who prefers more personalized experience.
+
+Core Features (Web)
+
+* Authentication 
+  login/Signup
+
+* Home Screen/Dashboard
+  Displays recommended  
+  Displays recently played songs
+
+* Shows song details
+  album art
+  playback controls 
+
+* Playlist / Liked Songs 
+  manage their playlists
+
+* Search functionality 
+  can search specific tracks
+
+
+Core Features (Mobile App)
+
+* Login/Signup Screen
+  for user authentication
+
+* Home Screen
+  Displays recommended
+  Displays recently played songs
+
+* Player Screen 
+  album art
+  playback controls
+
+* Playlist / Liked Songs screen
+  manage their playlists
+
+* Bottom Navigation Bar
+  For switching between Home, Search, and Playlist sections 
+
+Basic Tech Stack
+  
+React.js (frontend of Web)
+Flask    (Backend of Web)
+REST API (Backend of Web)
+
+Kotlin (App)
+Jetpack Compose (App)
+
+
+
+
